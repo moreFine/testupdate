@@ -18,7 +18,7 @@
                     </ul>
                 ]]>
             </description>
-            <enclosure url="MGMeeting.zip" length="26155388" type="application/octet-stream"/>
+            <enclosure url="https://github.com/moreFine/testupdate/blob/main/sparkle/MGMeeting.zip" length="26155388" type="application/octet-stream" crossorigin="anonymous" />
         </item>
     </channel>
 </rss>
