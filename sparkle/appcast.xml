@@ -2,6 +2,8 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>咪咕会议</title>
+        <link>https://github.com/moreFine/testupdate/blob/main/sparkle/MGMeeting.zip</link>
+        <description>咪咕会议的最新更新</description>
         <item>
             <title>0.27.0</title>
             <pubDate>Thu, 15 Aug 2024 20:06:16 +0800</pubDate>
