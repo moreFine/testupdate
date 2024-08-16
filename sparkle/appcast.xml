@@ -8,7 +8,6 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
             <description>
                 <![CDATA[
                     <ul>
