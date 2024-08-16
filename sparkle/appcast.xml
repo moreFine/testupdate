@@ -8,6 +8,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
             <enclosure url="https://raw.githubusercontent.com/moreFine/testupdate/main/sparkle/%E5%92%AA%E5%92%95%E4%BC%9A%E8%AE%AE.zip" length="26780527" type="application/octet-stream" sparkle:edSignature="/nbklRNWx/1weNqPs5px7yUmIKKc8r1G14GXOjjMA4cbDTAYwgxnOtcYCOHy23tlgvF64eJoCPd8LTVnocmuCA=="/>
         </item>
     </channel>
