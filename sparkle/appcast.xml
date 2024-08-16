@@ -5,7 +5,7 @@
         <item>
             <title>0.27.0</title>
             <pubDate>Thu, 15 Aug 2024 20:06:16 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <sparkle:criticalUpdate>true</sparkle:criticalUpdate>
