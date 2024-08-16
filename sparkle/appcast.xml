@@ -17,7 +17,7 @@
                     </ul>
                 ]]>
             </description>
-            <enclosure url="https://raw.githubusercontent.com/moreFine/testupdate/main/sparkle/MGMeeting.zip" length="26155388" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/moreFine/testupdate/main/sparkle/MGMeeting.zip" length="26155388" sparkle:edSignature="Fq+HeVpvSCwrkLg8kPlXbrj2SHybB3erzGv9DpA7RQhxHjaXTQAUuPiwOniOo2YhScVD3HxZk5ZENFDBuS6LDQ==" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
