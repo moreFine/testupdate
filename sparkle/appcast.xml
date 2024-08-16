@@ -4,20 +4,11 @@
         <title>咪咕会议</title>
         <item>
             <title>0.27.0</title>
-            <pubDate>Thu, 15 Aug 2024 20:06:16 +0800</pubDate>
+            <pubDate>Fri, 16 Aug 2024 16:28:18 +0800</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <description>
-                <![CDATA[
-                    <ul>
-                    <li>支持音视频文件共享；</li>
-                    <li>支持屏幕共享悬浮窗；</li>
-                    <li>优化了其它已知缺陷；</li>
-                    </ul>
-                ]]>
-            </description>
-            <enclosure url="https://raw.githubusercontent.com/moreFine/testupdate/main/sparkle/MGMeeting.zip" length="26155388" sparkle:edSignature="Fq+HeVpvSCwrkLg8kPlXbrj2SHybB3erzGv9DpA7RQhxHjaXTQAUuPiwOniOo2YhScVD3HxZk5ZENFDBuS6LDQ==" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/moreFine/testupdate/main/sparkle/%E5%92%AA%E5%92%95%E4%BC%9A%E8%AE%AE.zip" length="26780527" type="application/octet-stream" sparkle:edSignature="/nbklRNWx/1weNqPs5px7yUmIKKc8r1G14GXOjjMA4cbDTAYwgxnOtcYCOHy23tlgvF64eJoCPd8LTVnocmuCA=="/>
         </item>
     </channel>
 </rss>
